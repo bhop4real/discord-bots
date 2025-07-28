@@ -6,6 +6,10 @@ Lumen is a persona-driven chatbot for Discord, powered by the DeepSeek language 
 
 The system is architected to be modular and persistent, saving user settings and conversation histories to local JSON files, ensuring data continuity across restarts.
 
+## Demonstration
+
+<img width="586" height="756" alt="image" src="https://github.com/user-attachments/assets/cf3a010d-ad4b-47e7-89cf-d07e6c8d345f" />
+
 ## System Architecture
 
 The project is organized into several key components:
